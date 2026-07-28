@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.display {
+  font-family: "Fraunces", serif;
+}
+.sans {
+  font-family: "Work Sans", sans-serif;
+}
